@@ -1,5 +1,14 @@
 {
-  "current": "Default",
+  "current": {
+    "blocks": {
+      "qikify-contactform-1693295909": {
+        "type": "shopify:\/\/apps\/qikify-contact-us-form-builder\/blocks\/app-embed\/753fa0d7-50d4-480a-b094-cff26e632c36",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
   "presets": {
     "Default": {
       "logo_width": 90,
