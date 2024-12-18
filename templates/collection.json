@@ -11,18 +11,6 @@
   "sections": {
     "1734534449682c25b0": {
       "type": "apps",
-      "blocks": {
-        "subcollections_subcollection_filter_hNdEM6": {
-          "type": "shopify://apps/subcollections/blocks/subcollection-filter/53f9b96c-b24b-486a-97b1-bf27762833a6",
-          "settings": {
-            "collection": "{{ collection }}",
-            "title": "Subcollections"
-          }
-        }
-      },
-      "block_order": [
-        "subcollections_subcollection_filter_hNdEM6"
-      ],
       "settings": {
         "include_margins": true
       }
