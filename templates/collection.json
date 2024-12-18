@@ -12,7 +12,7 @@
     "1734493258bb341694": {
       "type": "apps",
       "blocks": {
-        "subcollections_subcollection_filter_nCVDRh": {
+        "subcollections_subcollection_filter_fx9i3d": {
           "type": "shopify://apps/subcollections/blocks/subcollection-filter/53f9b96c-b24b-486a-97b1-bf27762833a6",
           "settings": {
             "collection": "{{ collection }}",
@@ -21,7 +21,7 @@
         }
       },
       "block_order": [
-        "subcollections_subcollection_filter_nCVDRh"
+        "subcollections_subcollection_filter_fx9i3d"
       ],
       "settings": {
         "include_margins": true
