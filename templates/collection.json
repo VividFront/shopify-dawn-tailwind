@@ -16,7 +16,7 @@
           "type": "shopify://apps/subcollections/blocks/subcollection-filter/53f9b96c-b24b-486a-97b1-bf27762833a6",
           "settings": {
             "collection": "{{ collection }}",
-            "title": "{{ collection.title }}"
+            "title": "Testing"
           }
         }
       },
